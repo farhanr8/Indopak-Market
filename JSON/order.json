@@ -1,0 +1,108 @@
+[
+    {
+        "_id" : ObjectId("5fc9ea9f7de5131123f21d24"),
+        "username" : "jacortiz",
+        "orders" : [ 
+            {
+                "items" : {
+                    "5fc5a05d54ed903638a27719" : {
+                        "_id" : ObjectId("5fc5a05d54ed903638a27719"),
+                        "name" : "Daig",
+                        "class" : "Rice",
+                        "picture" : "../images/P1010029.jpg",
+                        "price" : "13",
+                        "stock" : "6",
+                        "description" : "Daig Rice",
+                        "qty" : 3
+                    }
+                },
+                "time" : "12/4/2020 2:25:52 AM",
+                "totalprice" : 39
+            }, 
+            {
+                "items" : {
+                    "5fc5a05d54ed903638a27719" : {
+                        "_id" : ObjectId("5fc5a05d54ed903638a27719"),
+                        "name" : "Daig",
+                        "class" : "Rice",
+                        "picture" : "../images/P1010029.jpg",
+                        "price" : "13",
+                        "stock" : 3,
+                        "description" : "Daig Rice",
+                        "qty" : 3
+                    }
+                },
+                "time" : "12/4/2020 2:26:13 AM",
+                "totalprice" : 39
+            }, 
+            {
+                "items" : {
+                    "5fca75cc7bae19b83123a557" : {
+                        "_id" : ObjectId("5fca75cc7bae19b83123a557"),
+                        "name" : "Chef's Secret Basmati Rice",
+                        "class" : "Rice",
+                        "picture" : "../images/P1010040.jpg",
+                        "price" : "13",
+                        "stock" : 5,
+                        "description" : "20 lb",
+                        "qty" : 1
+                    },
+                    "5fca7a3a7bae19b83123aa98" : {
+                        "_id" : ObjectId("5fca7a3a7bae19b83123aa98"),
+                        "name" : "Barbican Pomegranate Malt",
+                        "class" : "Drinks",
+                        "picture" : "../images/P1010205.jpg",
+                        "price" : "20",
+                        "stock" : 5,
+                        "description" : "24 x 330 ML",
+                        "qty" : 1
+                    }
+                },
+                "time" : "12/4/2020 12:15:48 PM",
+                "totalprice" : 33
+            }
+        ]
+    },
+    {
+        "_id" : ObjectId("5fca81ff9ed3d208716249c7"),
+        "username" : "Bob",
+        "orders" : [ 
+            {
+                "items" : {
+                    "5fc5a05d54ed903638a27719" : {
+                        "_id" : ObjectId("5fc5a05d54ed903638a27719"),
+                        "name" : "Daig Rice",
+                        "class" : "Rice",
+                        "picture" : "../images/P1010029.jpg",
+                        "price" : "13",
+                        "stock" : "6",
+                        "description" : "10 lb",
+                        "qty" : 2
+                    },
+                    "5fca7a7a7bae19b83123aaea" : {
+                        "_id" : ObjectId("5fca7a7a7bae19b83123aaea"),
+                        "name" : "Barbican Pineapple Malt",
+                        "class" : "Drinks",
+                        "picture" : "../images/P1010208.jpg",
+                        "price" : "20",
+                        "stock" : 5,
+                        "description" : "24 x 330 ML",
+                        "qty" : 2
+                    },
+                    "5fca7b0b97ec4d0736c5d356" : {
+                        "_id" : ObjectId("5fca7b0b97ec4d0736c5d356"),
+                        "name" : "Laziza Pakora",
+                        "class" : "Spices",
+                        "picture" : "../images/P1010431.JPG",
+                        "price" : "4",
+                        "stock" : "1",
+                        "description" : "200 grams",
+                        "qty" : 1
+                    }
+                },
+                "time" : "12/4/2020 12:40:56 PM",
+                "totalprice" : 70
+            }
+        ]
+    }
+]

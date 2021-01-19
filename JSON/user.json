@@ -1,0 +1,32 @@
+[
+    {
+        "_id" : ObjectId("5fc8773c2c328e1556845c23"),
+        "username" : "farhan",
+        "authority" : 1,
+        "password" : "cc03e747a6afbbcbf8be7668acfebee5",
+        "name" : "farhan",
+        "phone" : "123456789",
+        "email" : "test123@gmail.com",
+        "address" : "123 address road"
+    },
+    {
+        "_id" : ObjectId("5fc9ea9f7de5131123f21d22"),
+        "username" : "jacortiz",
+        "authority" : 0,
+        "password" : "abe65574e41025e0b8847be381e93961",
+        "name" : "Jac",
+        "phone" : "123456789",
+        "email" : "jacortiz@gmail.com",
+        "address" : "123 Irving Blvd"
+    },
+    {
+        "_id" : ObjectId("5fca81ff9ed3d208716249c5"),
+        "username" : "Bob",
+        "authority" : 0,
+        "password" : "5f4dcc3b5aa765d61d8327deb882cf99",
+        "name" : "Bob",
+        "phone" : "123456789",
+        "email" : "bob@gmail.com",
+        "address" : "123 Test Blvd"
+    }
+]

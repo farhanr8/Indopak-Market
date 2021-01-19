@@ -1,0 +1,137 @@
+[
+    {
+        "_id" : ObjectId("5fc5a05d54ed903638a27719"),
+        "name" : "Daig Rice",
+        "class" : "Rice",
+        "picture" : "../images/P1010029.jpg",
+        "price" : "13",
+        "stock" : 4,
+        "description" : "10 lb"
+    },
+    {
+        "_id" : ObjectId("5fca75cc7bae19b83123a557"),
+        "name" : "Chef's Secret Basmati Rice",
+        "class" : "Rice",
+        "picture" : "../images/P1010040.jpg",
+        "price" : "13",
+        "stock" : 4,
+        "description" : "20 lb"
+    },
+    {
+        "_id" : ObjectId("5fca760f7bae19b83123a5a6"),
+        "name" : "India Gate Basmati Rice",
+        "class" : "Rice",
+        "picture" : "../images/P1010041.jpg",
+        "price" : "10",
+        "stock" : 5,
+        "description" : "10 lb"
+    },
+    {
+        "_id" : ObjectId("5fca764c7bae19b83123a5eb"),
+        "name" : "Royal Basmati Rice",
+        "class" : "Rice",
+        "picture" : "../images/P1010042.jpg",
+        "price" : "11",
+        "stock" : 5,
+        "description" : "10 lb"
+    },
+    {
+        "_id" : ObjectId("5fca779d7bae19b83123a777"),
+        "name" : "Golden Temple Atta",
+        "class" : "Flour",
+        "picture" : "../images/P1010180.jpg",
+        "price" : "10",
+        "stock" : 5,
+        "description" : "20 lb"
+    },
+    {
+        "_id" : ObjectId("5fca78297bae19b83123a82a"),
+        "name" : "Sharbati Atta",
+        "class" : "Flour",
+        "picture" : "../images/P1010181.jpg",
+        "price" : "8",
+        "stock" : 5,
+        "description" : "10 lb"
+    },
+    {
+        "_id" : ObjectId("5fca78917bae19b83123a8a0"),
+        "name" : "Aashirvaad Flour",
+        "class" : "Flour",
+        "picture" : "../images/P1010183.jpg",
+        "price" : "14",
+        "stock" : 5,
+        "description" : "22 lb"
+    },
+    {
+        "_id" : ObjectId("5fca79917bae19b83123a9cd"),
+        "name" : "Patanjili Flour",
+        "class" : "Flour",
+        "picture" : "../images/P1010182.jpg",
+        "price" : "11",
+        "stock" : 5,
+        "description" : "10 lb"
+    },
+    {
+        "_id" : ObjectId("5fca79377bae19b83123a962"),
+        "name" : "Barbican Apple Malt",
+        "class" : "Drinks",
+        "picture" : "../images/P1010204.jpg",
+        "price" : "20",
+        "stock" : 5,
+        "description" : "24 x 330 ML"
+    },
+    {
+        "_id" : ObjectId("5fca7a3a7bae19b83123aa98"),
+        "name" : "Barbican Pomegranate Malt",
+        "class" : "Drinks",
+        "picture" : "../images/P1010205.jpg",
+        "price" : "20",
+        "stock" : 4,
+        "description" : "24 x 330 ML"
+    },
+    {
+        "_id" : ObjectId("5fca7a537bae19b83123aaba"),
+        "name" : "Barbican Raspberry Malt",
+        "class" : "Drinks",
+        "picture" : "../images/P1010206.jpg",
+        "price" : "20",
+        "stock" : 5,
+        "description" : "24 x 330 ML"
+    },
+    {
+        "_id" : ObjectId("5fca7a687bae19b83123aad2"),
+        "name" : "Barbican Strawberry Malt",
+        "class" : "Drinks",
+        "picture" : "../images/P1010207.jpg",
+        "price" : "20",
+        "stock" : 5,
+        "description" : "24 x 330 ML"
+    },
+    {
+        "_id" : ObjectId("5fca7a7a7bae19b83123aaea"),
+        "name" : "Barbican Pineapple Malt",
+        "class" : "Drinks",
+        "picture" : "../images/P1010208.jpg",
+        "price" : "20",
+        "stock" : 3,
+        "description" : "24 x 330 ML"
+    },
+    {
+        "_id" : ObjectId("5fca7ae097ec4d0736c5d355"),
+        "name" : "Laziza Paya Seasoning",
+        "class" : "Spices",
+        "picture" : "../images/P1010430.JPG",
+        "price" : "4",
+        "stock" : "5",
+        "description" : "100 grams"
+    },
+    {
+        "_id" : ObjectId("5fca7b0b97ec4d0736c5d356"),
+        "name" : "Laziza Pakora",
+        "class" : "Spices",
+        "picture" : "../images/P1010431.JPG",
+        "price" : "4",
+        "stock" : "15",
+        "description" : "200 grams"
+    }
+]

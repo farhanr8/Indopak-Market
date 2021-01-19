@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : ObjectId("5fc9ea9f7de5131123f21d23"),
+        "username" : "jacortiz",
+        "items" : {
+            "5fca78297bae19b83123a82a" : {
+                "_id" : ObjectId("5fca78297bae19b83123a82a"),
+                "name" : "Sharbati Atta",
+                "class" : "Flour",
+                "picture" : "../images/P1010181.jpg",
+                "price" : "8",
+                "stock" : 5,
+                "description" : "10 lb",
+                "qty" : 1
+            }
+        }
+    },
+    {
+        "_id" : ObjectId("5fca81ff9ed3d208716249c6"),
+        "username" : "Bob",
+        "items" : {}
+    }
+]
